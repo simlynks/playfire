@@ -1,0 +1,21 @@
+###############################################################################################
+###############################################################################################
+##  LazyLeanback Scripts by SimLynks for automated installation of "Playing with Fire" MOD   ##
+##                                                                                           ##
+##          Compatible with FireTV (ARM) and (ARM64) on FireOS5 (Lollipop 5.0 & 5.1)         ##
+##                                                                                           ##
+##-------------------------------------------------------------------------------------------##
+## https://forum.xda-developers.com/fire-tv/general/total-mod-playing-fire-complete-t3629990 ##
+##-------------------------------------------------------------------------------------------##
+##                                                                                           ##
+##      /*                                                                                   ##
+##       * ----------------------------------------------------------------------------      ##
+##       * "THE BEER-WARE LICENSE" (Revision 42):                                            ##
+##       * <phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you          ##
+##       * can do whatever you want with this stuff. If we meet some day, and you think      ##
+##       * this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp         ##
+##       * ----------------------------------------------------------------------------      ##
+##       */                                                                                  ##
+##                                                                                           ##
+###############################################################################################
+###############################################################################################
