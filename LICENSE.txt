@@ -2,10 +2,11 @@
 ###############################################################################################
 ##  LazyLeanback Scripts by SimLynks for automated installation of "Playing with Fire" MOD   ##
 ##                                                                                           ##
-##          Compatible with FireTV (ARM) and (ARM64) on FireOS5 (Lollipop 5.0 & 5.1)         ##
+##         Compatible with FireTV (ARM) and (ARM64) on FireOS5 (Lollipop 5.0 & 5.1)          ##
 ##                                                                                           ##
 ##-------------------------------------------------------------------------------------------##
 ## https://forum.xda-developers.com/fire-tv/general/total-mod-playing-fire-complete-t3629990 ##
+##   https://github.com/simlynks/playfire & https://github.com/simlynks/playfire-tvsettings  ##
 ##-------------------------------------------------------------------------------------------##
 ##                                                                                           ##
 ##      /*                                                                                   ##
